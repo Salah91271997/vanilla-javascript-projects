@@ -3,4 +3,4 @@
 - [03-reviews](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/03-reviews/index.html)
 - [04-questions](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/04-questions/index.html)
 - [05-menu](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/05-menu/index.html) 
-- [05-scroll](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/06-scroll/index.html) 
+- [06-scroll](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/06-scroll/index.html) 
