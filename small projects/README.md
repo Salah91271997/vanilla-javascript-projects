@@ -5,3 +5,4 @@
 - [05-menu](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/05-menu/index.html)
 - [06-scroll](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/06-scroll/index.html)
 - [07-tabes](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/07-tabes/index.html)
+- [08-lorem-ipsum](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/08-lorem-ipsum/index.html)
