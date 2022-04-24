@@ -6,4 +6,4 @@
 - [06-scroll](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/06-scroll/index.html)
 - [07-tabes](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/07-tabes/index.html)
 - [08-lorem-ipsum](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/08-lorem-ipsum/index.html)
-- [09-To buy List](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/09-To-buy-List/index.html)
+- [09-To buy List](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/09-To%20buy%20List/index.html)
