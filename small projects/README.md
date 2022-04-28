@@ -8,4 +8,4 @@
 - [08-lorem-ipsum](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/08-lorem-ipsum/index.html)
 - [09-To buy List](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/09-To%20buy%20List/index.html)
 - [10-dark-mode](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/10-dark-mode/index.html)
-- [10-dark-mode](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/11-Weather-App/index.html)
+- [10-dark-mode](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/11-Weather%20App/index.html)
