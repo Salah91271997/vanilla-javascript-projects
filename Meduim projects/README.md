@@ -1,4 +1,3 @@
-- [01-Simple Form Animation](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/Simple%20Form%20Animation/index.html)
-
+- [01-Simple Form Animation](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/01-Simple%20Form%20Animation/index.html)
 - [02-Rock Paper Scissors Game](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/02-Rock%20Paper%20Scissors%20Game/index.html)
 - [03-BookList App](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/03-BookList%20App/index.html)
