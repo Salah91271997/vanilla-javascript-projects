@@ -2,3 +2,4 @@
 - [02-Rock Paper Scissors Game](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/02-Rock%20Paper%20Scissors%20Game/index.html)
 - [03-BookList App](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/03-BookList%20App/index.html)
 - [04-To Do List](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/04-To%20Do%20List/index.html)
+- [05-Meditation App](https://salah91271997.github.io/vanilla-javascript-projects/Meduim%20projects/05-Meditation%20App/index.html)
