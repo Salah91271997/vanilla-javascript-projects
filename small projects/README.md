@@ -9,3 +9,4 @@
 - [09-To buy List](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/09-To%20buy%20List/index.html)
 - [10-dark-mode](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/10-dark-mode/index.html)
 - [11-Weather App](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/11-Weather%20App/index.html)
+- [12-Speed Typing Game](https://salah91271997.github.io/vanilla-javascript-projects/small%20projects/12-Speed%20Typing%20Game/index.html)
